@@ -11,3 +11,9 @@ It can be improved to do more features.
 
 Put the WWW folder on a webserver and you go to localhost. There you have a control panel to check. 
 You can virtualize several computers to test it.
+
+![alt tag](http://www.sompartyapp.com/git/systemAudit/1.png)
+![alt tag](http://www.sompartyapp.com/git/systemAudit/2.png)
+![alt tag](http://www.sompartyapp.com/git/systemAudit/3.png)
+![alt tag](http://www.sompartyapp.com/git/systemAudit/4.png)
+![alt tag](http://www.sompartyapp.com/git/systemAudit/5.png)
