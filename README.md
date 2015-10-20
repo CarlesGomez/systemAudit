@@ -2,7 +2,7 @@
 System Audit on the cloud is a solution to register and do a basic IT managent of your IT on the cloud. 
 
 ## How it works
-You register your IT computers or laptops on the cloud with the C# application (on Windows) or script on script on Linux.
+You register your IT computers or laptops on the cloud with the C# application (on Windows) or script (on Linux).
 Then you enter to the webapp and you can do basic managment (at this demo we did WOL, shutdown and data track of your computers).
 It can be improved to do more features.
 
